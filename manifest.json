@@ -1,5 +1,5 @@
 {
-  "name": "BALLA Family",
+  "name": "BALLAFamily",
   "short_name": "BALLAs",
   "start_url": "index.html",
   "display": "standalone",
@@ -8,12 +8,24 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/images/icons/family-144.png",
-      "type": "image/png", "sizes": "144x96"
+      "src": "/images/icons/family-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
     },
     {
-      "src": "/images/icons/family-384.png",
-      "type": "image/png", "sizes": "384x256"
+      "src": "/images/icons/family-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/images/icons/family-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/family-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ]
 }
